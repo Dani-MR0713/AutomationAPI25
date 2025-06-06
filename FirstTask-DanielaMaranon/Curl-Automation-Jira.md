@@ -3,7 +3,7 @@
 
 **Pre-condition** 
 1. Set the User and ApiToken
-> export $apiToken=ATATT3xFfGF0hUW6aFjgCQAWS_Ooad-oh1MpA3yE6zSYDQj7gSl0g6-oBmyN76IAL8GDb8nGVfgMB7Rpy73_fKKoP-pN0VICaLzJVWehFl19GGArrfAc9dA_jF-aNr8tACZROIlWQDIMMsi8pNANFEBg0OizzWLiOxlP6EYQolZmPxLD5hrfXZw=25E583F7
+> export apiToken=ATATT3xFfGF0hUW6aFjgCQAWS_Ooad-oh1MpA3yE6zSYDQj7gSl0g6-oBmyN76IAL8GDb8nGVfgMB7Rpy73_fKKoP-pN0VICaLzJVWehFl19GGArrfAc9dA_jF-aNr8tACZROIlWQDIMMsi8pNANFEBg0OizzWLiOxlP6EYQolZmPxLD5hrfXZw=25E583F7
 >
 > echo $apiToken
 > 
