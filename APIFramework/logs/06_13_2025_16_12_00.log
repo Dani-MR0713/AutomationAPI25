@@ -1,0 +1,9 @@
+2025-06-13 16:12:00,456 UTC INFO     unittests.test_project  Setup
+2025-06-13 16:12:00,457 UTC INFO     unittests.test_project  test one
+2025-06-13 16:12:00,458 UTC INFO     unittests.test_project  tearDown
+2025-06-13 16:12:00,459 UTC INFO     unittests.test_project  Setup
+2025-06-13 16:12:00,459 UTC INFO     unittests.test_project  test three
+2025-06-13 16:12:00,460 UTC INFO     unittests.test_project  tearDown
+2025-06-13 16:12:00,460 UTC INFO     unittests.test_project  Setup
+2025-06-13 16:12:00,461 UTC INFO     unittests.test_project  test two
+2025-06-13 16:12:00,461 UTC INFO     unittests.test_project  tearDown

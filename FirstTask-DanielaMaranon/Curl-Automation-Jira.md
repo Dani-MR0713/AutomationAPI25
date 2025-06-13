@@ -1,12 +1,12 @@
 # First Task - CURL request
 #### Jira REST API by Daniela Marañon
 
-**Pre-condition** 
+**Pre-condition**
 1. Set the User and ApiToken
 > export apiToken=ATATT3xFfGF0hUW6aFjgCQAWS_Ooad-oh1MpA3yE6zSYDQj7gSl0g6-oBmyN76IAL8GDb8nGVfgMB7Rpy73_fKKoP-pN0VICaLzJVWehFl19GGArrfAc9dA_jF-aNr8tACZROIlWQDIMMsi8pNANFEBg0OizzWLiOxlP6EYQolZmPxLD5hrfXZw=25E583F7
 >
 > echo $apiToken
-> 
+>
 > export user=daniela.maranon.jalasoft@gmail.com
 >
 > echo $user
@@ -87,7 +87,7 @@ curl -u $user:$apiToken -X DELETE -H "Content-Type: application/json" https://yo
 
 ![image](https://github.com/user-attachments/assets/2b07a8c2-c63e-4a77-8035-2c2b17421050)
 
-2. Get a non-existent issue. 
+2. Get a non-existent issue.
 ```shell
 curl -u $user:$apiToken -X GET -H "Content-Type: application/json" https://dmaranon.atlassian.net//rest/api/3/issue/10050 | jq
 ```

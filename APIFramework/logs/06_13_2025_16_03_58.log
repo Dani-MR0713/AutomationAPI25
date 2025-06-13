@@ -1,0 +1,5 @@
+2025-06-13 16:03:58,299 UTC DEBUG    unittests.test_logger  log DEBUG level
+2025-06-13 16:03:58,300 UTC INFO     unittests.test_logger  log INFO level
+2025-06-13 16:03:58,301 UTC WARNING  unittests.test_logger  log WARNING level
+2025-06-13 16:03:58,301 UTC ERROR    unittests.test_logger  log ERROR level
+2025-06-13 16:03:58,302 UTC CRITICAL unittests.test_logger  log CRITICAL level
